@@ -1,7 +1,7 @@
-emqx-plugin-template
+emqx-plugin-kafka
 ====================
 
-This is a template plugin for the EMQ X broker. And you can see [Plugin Development Guide](https://docs.emqx.io/broker/v3.0/en/plugins.html#plugin-development-template) to learning how to use it.
+This is a kafka plugin for the EMQ X broker. And you can see [Plugin Development Guide](https://docs.emqx.io/broker/v3.0/en/plugins.html#plugin-development-kafka) to learning how to use it.
 
 Plugin Config
 -------------
